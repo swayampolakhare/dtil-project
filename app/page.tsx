@@ -5,6 +5,7 @@ import FinancialPlanningBot from "@/components/financial-planning-bot"
 import NewsSection from "@/components/news-section"
 import GovernmentSchemes from "@/components/government-schemes"
 import BouncingAiBot from "@/components/bouncing-ai-bot"
+import News from "../components/news"
 
 export default function Home() {
   return (

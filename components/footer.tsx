@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="font-bold mb-2">About FinLit Hub</h3>
-            <p className="text-sm">Empowering financial literacy in India through education and tools.</p>
+            <p className="text-sm">Made by Swayam Polakhare, Mrudul Paulbudhe, Pranav Chavan, Rushikesh Patil, Prashant Sahani</p>
           </div>
           <div>
             <h3 className="font-bold mb-2">Quick Links</h3>

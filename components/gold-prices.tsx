@@ -7,14 +7,15 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
 
 // Gold price data for March 4, 2025 and previous days
 const goldData = [
-  { date: "2025-02-25", price: 65420 },
-  { date: "2025-02-26", price: 65380 },
-  { date: "2025-02-27", price: 65510 },
-  { date: "2025-02-28", price: 65650 },
-  { date: "2025-03-01", price: 65720 },
-  { date: "2025-03-02", price: 65800 },
-  { date: "2025-03-03", price: 65950 },
-  { date: "2025-03-04", price: 66100 }, // Current date
+  { date: "2025-02-25", price: 87737 },
+  { date: "2025-02-26", price: 87842 },
+  { date: "2025-02-27", price: 87089 },
+  { date: "2025-02-28", price: 87577 },
+  { date: "2025-03-01", price: 87303 },
+  { date: "2025-03-02", price: 87577 },
+  { date: "2025-03-03", price: 87577 },
+  { date: "2025-03-04", price: 88309 },
+   // Current date
 ]
 
 export default function GoldPrices() {

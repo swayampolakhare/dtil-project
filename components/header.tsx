@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { ModeToggle } from "@/components/mode-toggle"
+import News from '../components/news';
 
 export default function Header() {
   return (
@@ -31,9 +32,7 @@ export default function Header() {
               </Link>
             </li>
             <li>
-              <Link href="/news" className="hover:text-blue-500 transition-colors">
-                News
-              </Link>
+              
             </li>
           </ul>
         </nav>
